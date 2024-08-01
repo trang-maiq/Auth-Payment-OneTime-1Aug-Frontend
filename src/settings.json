@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "neo-brutal",
+  "title": "Welcome to Yay: Your Personal Productivity Blog!",
+  "subtitle": "Dive into a world of tips, tricks, and stories to boost your work-life balance. Let's turn your daily grind into a delightful journey together!"
+}
